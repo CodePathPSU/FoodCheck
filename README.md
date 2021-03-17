@@ -28,13 +28,14 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can see all the items they have entered so far 
+* User can enter an expiration date and the food 
+* User can see how many days they have left to use the product 
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can delete an expiration date and the food 
+* Assign a color-coded value to each food depending on how long it has left. 
 
 ### 2. Screen Archetypes
 
