@@ -53,18 +53,14 @@ Original App Design Project - README Template
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
+* Logging food and date
+* List of food and date
 * [fill out your third tab]
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* (For the optional user stories)
+   * List of food and date -> Details about food 
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
