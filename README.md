@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# FoodCheck
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -15,12 +15,12 @@ Original App Design Project - README Template
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Health & Fitness / Lifestyle 
+- **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer. Functionality wouldn’t be limited to mobile devices.
+- **Story:** Keeps track of expiration dates of all perishable items. User can enter the expiration date into the app, and the app will display how much longer the user has to use the item.  
+- **Market:** Any individual could choose to use this app. The target market would probably be young teens and above, or people just starting to learn how to cook. 
+- **Habit:** The app could be used every day as the user would make different meals with different items day-to-day so they would have to constantly check the status of their food. 
+- **Scope:** First, we would start with having the user enter manually the expiration dates. This could evolve into the user scanning the barcode of the item instead of having to manually enter it for easier access. This could be used in collaboration with the MyFridge app, or nutrition apps such as MyFitnessPal and Lose It! 
 
 ## Product Spec
 
