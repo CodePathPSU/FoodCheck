@@ -35,15 +35,18 @@ Original App Design Project - README Template
 **Optional Nice-to-have Stories**
 
 * User can delete an expiration date and the food 
-* Assign a color-coded value to each food depending on how long it has left. 
+* Assign a color-coded value to each food depending on how long it has left.
+* Food is categorized (dairy, grains, etc.) 
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
+* Food List Screen - User sees a list of food and its expiration date  
+   * User can scroll through a list of the food and its expiration date.
+   * User can view the list of foods from closest to expiration to farthest from expiration. 
    * ...
-* [list second screen here]
-   * [list associated required story here]
+* Logging Screen - User can enter an expiration date 
+   * Allows user to type in the expiration date of their product 
+   * Allows user to type in what the food is.
    * ...
 
 ### 3. Navigation
