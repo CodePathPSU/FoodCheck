@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Our app allows users to keep track of the expiration date of the perishable items in their house. The app will display how much longer they have to use the item and allow them to enter foods and expiration dates to be tracked. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
