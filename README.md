@@ -64,17 +64,52 @@ Our app allows users to keep track of the expiration date of the perishable item
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://ibb.co/64k98G3" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+https://www.figma.com/file/C49QVujzta9dVIF3x45PGt/FoodCheck?node-id=0%3A1
 
 ### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+<table>
+  <tr>
+    <td>#Property</td>
+     <td>#Type</td>
+    <td>#Description</td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>File</td>
+    <td>the image associated with the category of the food</td>
+  <tr>
+    <td>food</td>
+    <td>String</td>
+    <td>the name of the food</td>
+   <tr>
+    <td>days</td>
+    <td>Number</td>
+    <td>the number of remaining days before the expiration date</td>
+   <tr>
+    <td>userId</td>
+    <td>String</td>
+    <td>the person that is logged in</td>
+  </tr>
+ </table>
+ 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
+* List of network requests by screen 
+  * Login Screen
+    * (Read/GET) Query the user id
+    * (Create/SIGNUP) Create a new user id
+  * Viewing Food Screen
+    * (Read/GET) Query foods listed
+    * (Read/GET) Query foods expiration date / days left
+    * (Read/GET) Query the category associated with the image
+  * Logging Food Screen
+    * (Create/POST) Create the food name
+    * (Create/POST) Create the food expiration date / days remaining
+    * (Create/POST) Create the food image
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
