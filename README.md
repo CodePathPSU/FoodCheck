@@ -64,7 +64,7 @@ Our app allows users to keep track of the expiration date of the perishable item
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://ibb.co/64k98G3" width=600>
+<img src="http://g.recordit.co/6uvAV4GBsy.gif" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 https://www.figma.com/file/C49QVujzta9dVIF3x45PGt/FoodCheck?node-id=0%3A1
