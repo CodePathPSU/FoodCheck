@@ -13,6 +13,7 @@ Original App Design Project - README Template
 ### Description
 Our app allows users to keep track of the expiration date of the perishable items in their house. The app will display how much longer they have to use the item and allow them to enter foods and expiration dates to be tracked. 
 
+
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Health & Fitness / Lifestyle 
@@ -32,6 +33,11 @@ Our app allows users to keep track of the expiration date of the perishable item
 - [ ] User can enter an expiration date and the food
 - [ ] User can see how many days they have left to use the product 
 - [x] User can log in and sign up
+
+## Video Walkthrough Sprint 1
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/WKtZ7BlCQr.gif' title='Logging In/Signing Up' width='' alt='Logging In/Signing Up' />
 
 
 **Optional Nice-to-have Stories**
