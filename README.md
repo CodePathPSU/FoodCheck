@@ -39,6 +39,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/WKtZ7BlCQr.gif' title='Logging In/Signing Up' width='' alt='Logging In/Signing Up' />
 
+## Video Walkthrough Sprint 2
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/PjJ4SYnHEZ.gif' title='Logging Food' width='' alt='Logging Food' />
+
 
 **Optional Nice-to-have Stories**
 
